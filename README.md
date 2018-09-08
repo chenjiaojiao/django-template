@@ -1,2 +1,2 @@
 # django-template
-django工程模板
+django工程目录结构优化
